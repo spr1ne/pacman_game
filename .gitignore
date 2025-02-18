@@ -1,0 +1,11 @@
+.idea
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake-build-debug
+cmake_install.cmake
+lab2
+debug
+release
+build
+out.sh
