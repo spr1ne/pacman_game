@@ -6,8 +6,6 @@
 
 На момент написания я не нашел в открытом доступе полностью готовых решений, поэтому выкладываю своё.
 
-
-
 ## Содержание
 
 1. Ubuntu 
@@ -58,8 +56,6 @@
    
    `./pacman_game_debug
 
-
-
 ## 2. Windows 10
 
 ### 2.1. Установка зависимостей
@@ -70,19 +66,19 @@
 
 2. Пакет clang
    
-   ![](/home/work/.config/marktext/images/2025-02-18-14-16-02-image.png)
+   ![](assets/2025-02-18-14-32-55-image.png)
 
 3. Пакет make
    
-   ![](/home/work/.config/marktext/images/2025-02-18-14-16-59-image.png)
+   ![](assets/2025-02-18-14-33-42-image.png)
 
 4. Пакет cmake
    
-   ![](/home/work/.config/marktext/images/2025-02-18-14-17-42-image.png)
+   ![](assets/2025-02-18-14-33-54-image.png)
 
 5. Пакет libncurses-devel
    
-   ![](/home/work/.config/marktext/images/2025-02-18-14-18-19-image.png)
+   ![](assets/2025-02-18-14-34-04-image.png)
 
 ### 2.2. Сборка
 
@@ -107,9 +103,3 @@
 6. Запустите игру (**Важно!** Окно терминала должно быть не менее 30 строк, чтобы увидеть полный интерфейс)
    
    `./pacman_game_debug
-
-
-
-
-
-
